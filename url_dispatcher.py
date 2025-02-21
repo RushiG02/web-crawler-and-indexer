@@ -15,4 +15,4 @@ URLs = ['https://m.indiamart.com/proddetail/10kg-composite-cylinder-285197434813
 'https://dir.indiamart.com/impcat/crompton-motor/horsepower-15-hp-q13468154/','https://www.mjvaluemart.com/electric-motor-15-hp?srsltid=AfmBOoqbpiOjNSAjTehDJCMuruLd1gAP2d1xLfq6EMbji5BcayKh0Wcj','https://www.amazon.in/2880-pole-phase-mounted-motor/dp/B0CJFZ54QW',
 'https://www.hondaindiapower.com/product-detail/eu70is','https://www.indiamart.com/proddetail/perkins-diesel-generator-manufacturer-goem-22330780797.html','https://www.amazon.in/AK4000-3000-Powered-Generator-Commercial-Warranty/dp/B0DVLJ1Q83?ref_=Oct_d_otopr_d_3638820031_0&pd_rd_w=MeLLA&content-id=amzn1.sym.25a1078a-aa23-4746-b8f2-37c5df5524ed&pf_rd_p=25a1078a-aa23-4746-b8f2-37c5df5524ed&pf_rd_r=EYH5ND57ZW5TWAA9CART&pd_rd_wg=ODzGj&pd_rd_r=3ca05b74-58a5-4a08-820b-5e6c92149f19&pd_rd_i=B0DVLJ1Q83']
 for url in URLs:
-    add_url_to_queue("url")
+    add_url_to_queue(url)
